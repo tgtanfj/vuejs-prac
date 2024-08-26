@@ -24,7 +24,7 @@ watch(question, async (newQuestion, oldQuestion) => {
 </script>
 
 <template>
-  <h1>- Watchers</h1>
+  <h1>- Watch</h1>
   <p>gần giống useEffect</p>
   <p>watch(a,callback): callback b sẽ được chạy khi a thay đổi</p>
   <p>
